@@ -9,7 +9,7 @@ This is a ROS package for [Tengine](https://github.com/OAID/Tengine/blob/tengine
 - Can import caffe/pytorch/mxnet/onnx/ncnn models
 
 ## Setting up ##
-* Khadas VIM3 device
+* 晶晨A311D
 * USB Camera
 * [Tengine Compile with TIM-VX ](https://tengine-docs.readthedocs.io/zh_CN/latest/source_compile/compile_timvx.html)
 ### Library ###
