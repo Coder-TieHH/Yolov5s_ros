@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/rpdzkj/Desktop/ros_tengine_yolov5/build/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -isystem /usr/src/googletest/googlemock/include -isystem /usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/rpdzkj/Desktop/ros_tengine_yolov5/build/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/rpdzkj/Desktop/ros_tengine_yolov5/build/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/rpdzkj/Desktop/ros_tengine_yolov5/build/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/rpdzkj/Desktop/ros_tengine_yolov5/build/ros_tengine",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ros_tengine\\\" -I/home/rpdzkj/Desktop/ros_tengine_yolov5/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4 -I/home/rpdzkj/Desktop/ros_tengine_yolov5/src/ros_tengine/include/ros_tengine    -std=c++11 -o CMakeFiles/yolov5s_node.dir/src/yolov5s_node.cpp.o -c /home/rpdzkj/Desktop/ros_tengine_yolov5/src/ros_tengine/src/yolov5s_node.cpp",
+  "file": "/home/rpdzkj/Desktop/ros_tengine_yolov5/src/ros_tengine/src/yolov5s_node.cpp"
+},
+{
+  "directory": "/home/rpdzkj/Desktop/ros_tengine_yolov5/build/ros_tengine",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ros_tengine\\\" -I/home/rpdzkj/Desktop/ros_tengine_yolov5/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4 -I/home/rpdzkj/Desktop/ros_tengine_yolov5/src/ros_tengine/include/ros_tengine    -std=c++11 -o CMakeFiles/yolov5s_node.dir/src/yolo_layer.cpp.o -c /home/rpdzkj/Desktop/ros_tengine_yolov5/src/ros_tengine/src/yolo_layer.cpp",
+  "file": "/home/rpdzkj/Desktop/ros_tengine_yolov5/src/ros_tengine/src/yolo_layer.cpp"
+},
+{
+  "directory": "/home/rpdzkj/Desktop/ros_tengine_yolov5/build/ros_tengine",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ros_tengine\\\" -I/home/rpdzkj/Desktop/ros_tengine_yolov5/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4 -I/home/rpdzkj/Desktop/ros_tengine_yolov5/src/ros_tengine/include/ros_tengine    -std=c++11 -o CMakeFiles/yolov5s_node.dir/src/yolo.cpp.o -c /home/rpdzkj/Desktop/ros_tengine_yolov5/src/ros_tengine/src/yolo.cpp",
+  "file": "/home/rpdzkj/Desktop/ros_tengine_yolov5/src/ros_tengine/src/yolo.cpp"
+},
+{
+  "directory": "/home/rpdzkj/Desktop/ros_tengine_yolov5/build/ros_tengine",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ros_tengine\\\" -I/home/rpdzkj/Desktop/ros_tengine_yolov5/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4 -I/home/rpdzkj/Desktop/ros_tengine_yolov5/src/ros_tengine/include/ros_tengine    -std=c++11 -o CMakeFiles/yolov5s_node.dir/src/timer.cc.o -c /home/rpdzkj/Desktop/ros_tengine_yolov5/src/ros_tengine/src/timer.cc",
+  "file": "/home/rpdzkj/Desktop/ros_tengine_yolov5/src/ros_tengine/src/timer.cc"
+},
+{
+  "directory": "/home/rpdzkj/Desktop/ros_tengine_yolov5/build/usb_cam",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"usb_cam\\\" -Dusb_cam_EXPORTS -I/home/rpdzkj/Desktop/ros_tengine_yolov5/src/usb_cam/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -fPIC   -o CMakeFiles/usb_cam.dir/src/usb_cam.cpp.o -c /home/rpdzkj/Desktop/ros_tengine_yolov5/src/usb_cam/src/usb_cam.cpp",
+  "file": "/home/rpdzkj/Desktop/ros_tengine_yolov5/src/usb_cam/src/usb_cam.cpp"
+},
+{
+  "directory": "/home/rpdzkj/Desktop/ros_tengine_yolov5/build/usb_cam",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"usb_cam\\\" -I/home/rpdzkj/Desktop/ros_tengine_yolov5/src/usb_cam/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -o CMakeFiles/usb_cam_node.dir/nodes/usb_cam_node.cpp.o -c /home/rpdzkj/Desktop/ros_tengine_yolov5/src/usb_cam/nodes/usb_cam_node.cpp",
+  "file": "/home/rpdzkj/Desktop/ros_tengine_yolov5/src/usb_cam/nodes/usb_cam_node.cpp"
+}
+]

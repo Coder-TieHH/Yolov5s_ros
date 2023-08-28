@@ -1,0 +1,8 @@
+prefix=/home/rpdzkj/Desktop/ros_tengine_yolov5/devel
+
+Name: ros_tengine
+Description: Description of ros_tengine
+Version: 0.6.0
+Cflags: -I/home/rpdzkj/Desktop/ros_tengine_yolov5/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp roslib cv_bridge image_transport image_geometry sensor_msgs message_generation

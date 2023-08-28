@@ -1,0 +1,8 @@
+prefix=/home/rpdzkj/Desktop/ros_tengine_yolov5/devel
+
+Name: usb_cam
+Description: Description of usb_cam
+Version: 0.3.6
+Cflags: -I/home/rpdzkj/Desktop/ros_tengine_yolov5/src/usb_cam/include
+Libs: -L${prefix}/lib -lusb_cam
+Requires: 

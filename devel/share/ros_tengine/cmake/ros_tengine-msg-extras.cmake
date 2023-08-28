@@ -1,0 +1,2 @@
+set(ros_tengine_MESSAGE_FILES "/home/rpdzkj/Desktop/ros_tengine_yolov5/src/ros_tengine/msg/Vector2D.msg;/home/rpdzkj/Desktop/ros_tengine_yolov5/src/ros_tengine/msg/Rectangle.msg;/home/rpdzkj/Desktop/ros_tengine_yolov5/src/ros_tengine/msg/FaceObject.msg;/home/rpdzkj/Desktop/ros_tengine_yolov5/src/ros_tengine/msg/Object.msg;/home/rpdzkj/Desktop/ros_tengine_yolov5/src/ros_tengine/msg/Euler.msg")
+set(ros_tengine_SERVICE_FILES "")
